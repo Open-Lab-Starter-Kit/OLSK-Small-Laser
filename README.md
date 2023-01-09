@@ -5,11 +5,30 @@
 
 <br>
 
+Introduction
+--
+
+The OLSK Small Laser V1 is a compact but powerful desktop laser cutter. It features the design of the **[Fabulaser Mini](https://github.com/fab-machines/Fabulaser-Mini)**, developed to fit in Fab Labs and classrooms, with a compact size of 870x810x380mm and the weight under 60kg. It uses an optimized 40W CO2 laser, being able to cut 8mm acrylic. With a cutting area of 600x400mm, is one the largest of this machine category. 
+
 Specifications V1
 --
 
+- laser source: 40W CO2
 - cutting area: 600x400mm
 - frame: 30x30mm aluminum profiles
+- resolution: 0.05mm
+- max. cutting thickness:
+    - 8mm acrylic
+    - 6mm MDF
+    - 8mm Plywood
+- max speed: 400mm/s
+- motion: linear rails
+- housing: aluminum composite
+- bed: aluminum lamella
+- frame: 30 x 30 mm aluminum profiles
+- controller: 32bit LPC1768
+- firmware: grbl-LPC
+- machine dimensions: 870x810x380mm
 - motion: GT2 10mm belts
 - guides: 12mm linear rails
 - motors: stepper NEMA 17
