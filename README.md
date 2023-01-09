@@ -10,6 +10,16 @@ Introduction
 
 The OLSK Small Laser V1 is a compact but powerful desktop laser cutter. It features the design of the **[Fabulaser Mini](https://github.com/fab-machines/Fabulaser-Mini)**, developed to fit in Fab Labs and classrooms, with a compact size of 870x810x380mm and the weight under 60kg. It uses an optimized 40W CO2 laser, being able to cut 8mm acrylic. With a cutting area of 600x400mm, is one the largest of this machine category. 
 
+Learning by Making
+--
+
+The assembly of the OLSK Small Laser provides a unique learning experience. With the help of a workshop and the assembly manual, this laser cutter can be built in a few days, allowing the participants to understand the role of each part and how the mechanics, optics and electronics function from inside out. 
+
+The Assembly Manual
+--
+
+Just like the **[Fabulaser Mini](https://github.com/fab-machines/Fabulaser-Mini)**, the OLSK Small Laser V1 comes with a detailed building manual. Divided in logical steps, the manual also instructs on general building practices, the laser calibration and how to connect all the electronics of the machine. Teachers and lectures can also use the manual to divide workshop participants into building groups. 
+
 Specifications V1
 --
 
