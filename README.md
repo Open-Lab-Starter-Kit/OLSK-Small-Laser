@@ -52,6 +52,8 @@ Files
 - **[BOM](https://github.com/Open-Lab-Starter-Kit/OLSK-Small-Laser/blob/main/OLSK_Small_Laser_V1_BOM.pdf)**
 - **[Firmware](https://github.com/Open-Lab-Starter-Kit/OLSK-Small-Laser/tree/main/firmware/24.10.2021/grbl-LPC.zip)**
 - **[CAD](https://github.com/Open-Lab-Starter-Kit/OLSK-Small-Laser/tree/main/cad)**
+- **[Converter PCB](https://github.com/Open-Lab-Starter-Kit/OLSK-Small-Laser/tree/main/converterPCB)**
+- **[Settings](https://github.com/Open-Lab-Starter-Kit/OLSK-Small-Laser/tree/main/settings)**
 
 Author
 --
