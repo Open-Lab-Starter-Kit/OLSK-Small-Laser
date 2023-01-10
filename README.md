@@ -18,6 +18,8 @@ The assembly of the OLSK Small Laser provides a unique learning experience. With
 The Assembly Manual
 --
 
+<img src="media/Manual2.png" width="100%">
+
 Just like the **[Fabulaser Mini](https://github.com/fab-machines/Fabulaser-Mini)**, the OLSK Small Laser V1 comes with a detailed building manual. Divided in logical steps, the manual also instructs on general building practices, the laser calibration and how to connect all the electronics of the machine. Teachers and lectures can also use the manual to divide workshop participants into building groups. 
 
 Specifications V1
@@ -42,6 +44,11 @@ Specifications V1
 - motion: GT2 10mm belts
 - guides: 12mm linear rails
 - motors: stepper NEMA 17
+
+Files
+--
+
+- **[Assembly manual](https://github.com/Open-Lab-Starter-Kit/OLSK-Small-Laser/tree/main/manual)**
 
 Author
 --
