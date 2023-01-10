@@ -59,6 +59,7 @@ Author
 --
 
 OLSK Small Laser has been designed and built by **[InMachines Ingrassia GmbH](https://www.inmachines.net/)**.
+<br>
 <img src="https://irp.cdn-website.com/2b5ccdcd/dms3rep/multi/InMachines_Logo_positive_white.png" width="50%">
 
 <br>
