@@ -25,6 +25,8 @@ Just like the **[Fabulaser Mini](https://github.com/fab-machines/Fabulaser-Mini)
 Specifications V1
 --
 
+<img src="media/OLSK-Small-Laser.png" width="100%">
+
 - laser source: 40W CO2
 - cutting area: 600x400mm
 - frame: 30x30mm aluminum profiles
