@@ -18,6 +18,8 @@ Learning by Making
 
 The assembly of the OLSK Small Laser provides a unique learning experience. With the help of a workshop and the assembly manual, this laser cutter can be built in a few days, allowing the participants to understand the role of each part and how the mechanics, optics and electronics function from inside out. 
 
+<img src="media/HH_T.jpg" width="100%">
+
 The Assembly Manual
 --
 
