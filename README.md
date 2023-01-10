@@ -57,14 +57,18 @@ Files
 
 Author
 --
+
+OLSK Small Laser has been designed and built by **[InMachines Ingrassia GmbH](https://www.inmachines.net/)**.
 <img src="https://irp.cdn-website.com/2b5ccdcd/dms3rep/multi/InMachines_Logo_positive_white.png" width="50%">
 
 <br>
 
-OLSK Small Laser has been designed and built by **[InMachines Ingrassia GmbH](https://www.inmachines.net/)**.
-
 Machine design:
 - **[Daniele Ingrassia](https://www.linkedin.com/in/danieleingrassia/)**
+
+Manual design:
+- Marc Kohlen (marckohlen@3dinx.com)
+- Liane Sayuri Honda (licasayurih@gmail.com)
 
 The machine is part of the **[Open Lab Starter Kit (OLSK)](https://www.inmachines.net/open-lab-starter-kit)** group of open source digital fabrication machines.
 
