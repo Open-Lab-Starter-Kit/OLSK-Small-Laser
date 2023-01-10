@@ -54,7 +54,7 @@ Files
 - **[CAD](https://github.com/Open-Lab-Starter-Kit/OLSK-Small-Laser/tree/main/cad)**
 - **[Converter PCB](https://github.com/Open-Lab-Starter-Kit/OLSK-Small-Laser/tree/main/converterPCB)**
 - **[Settings](https://github.com/Open-Lab-Starter-Kit/OLSK-Small-Laser/tree/main/settings)**
-- **[User manual](https://github.com/Open-Lab-Starter-Kit/OLSK-Small-Laser/tree/main/manual/OLSK_Small_Laser_V1_User manual_L1M1.pdf)**
+- **[User manual](https://github.com/Open-Lab-Starter-Kit/OLSK-Small-Laser/tree/main/manual/OLSK_Small_Laser_V1_User_manual_L1M1.pdf)**
 
 Author
 --
