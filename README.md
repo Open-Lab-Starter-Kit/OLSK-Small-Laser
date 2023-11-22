@@ -74,7 +74,7 @@ Files
 - **[Settings](settings)**
 - **[Workbook](OLSK_Small_Laser_V2_Workbook.pdf)**
 - **[Wiring Schematic](WiringSchematic_OLSK_Small_Laser_V2.pdf)**
-- **[Assembly Manual (OLSK Small Laser V1)](OLSK_Small_Laser_manual_L1M1.pdf)**
+- **[Assembly Manual (OLSK Small Laser V1)](OLSK_Small_Laser_V2/OLSK_Small_Laser_manual_L1M1.pdf)**
 
 Authors
 --
@@ -103,5 +103,5 @@ Previous version
 
 Previous versions of Fabulaser Mini will always be available. 
 
-**[OLSK Small Laser V1 Repository](OLSK Small Laser V1)** 
+**[OLSK Small Laser V1 Repository](OLSK_Small_Laser_V1)** 
 <div><img src="media/OLSK-Small-Laser.png" width="30%"></div>
