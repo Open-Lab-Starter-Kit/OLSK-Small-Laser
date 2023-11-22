@@ -19,21 +19,20 @@ A tool to make, a tool to learn.
 
 <div align="center"><img src="media/Workshop1.jpg" width="45%"> <img src="media/Workshop2.jpg" width="45%"></div>
 
-In comparison to commercial laser cutters, OLSK Small Laser adds on top of the laser cutting functionalities a valuable learning experience. Ideally built together with students during a workshop, OLSK Small Laser will give the user not only the possibility to laser cut but also to learn how the machine is made, and how it works. The final user will not only be learning about electronics, mechanics and lasers, but will also have a deep knowledge of the machine, so to be able to efficiently execute maintenance, apply improvements and even design his own machine later on!
+In comparison to commercial laser cutters, OLSK Small Laser adds on top of the laser cutting functionalities a valuable learning experience. Ideally built together with students during a workshop, OLSK Small Laser will give the user not only the possibility to laser cut but also to learn how the machine is made, and how it works. The final user will not only be learning about electronics, mechanics and lasers, but will also have a deep knowledge of the machine, to be able to efficiently execute maintenance, apply improvements and even design their own machine later on!
 
 The Assembly Manual 
 --
-![](media/manual_shot_3.jpg)
 
-OLSK Small Laser comes with a state of art building instruction manual, detailing any of the many building details. Divided in logical steps, the manual also instructs on general building practices, laser calibration and how to connect all the electronics of the machine. Teachers and lecturers can also use the manual to divide workshop participants into building groups.
+OLSK Small Laser comes with a state of art building instruction manual, detailing any of the many building details. Divided into logical steps, the manual also instructs on general building practices, laser calibration and how to connect all the electronics of the machine. Teachers and lecturers can also use the manual to divide workshop participants into building groups.
 <div><i>OLSK Small Laser V2 assembly manual is still in progress. The complete manual is available only for OLSK Small Laser V1</i></div>
 
-![](media/manual_shot_2.jpg)
+![](media/Manual2.png)
 
 The Kit
 --
 
-OLSK Small Laser, is the one-stop solution for everything you need to fully use the laser cutting capabilities of Fabulaser Mini. Providing all the required parts and special tools to build the laser cutter, OLSK Small Laser kit also provides all the additional accessories to start laser cutting out of the box. As well as all the required adapters and connections are provided, so that the user only have to concentrate on assembly, without losing time in searching and buying additional parts.
+OLSK Small Laser Kit, is the one-stop solution for everything you need to fully use the laser cutting capabilities of OLSK Small Laser. Providing all the required parts and special tools to build the laser cutter, OLSK Small Laser kit also provides all the additional accessories to start laser cutting out of the box. As well as all the required adapters and connections are provided, so that the user only have to concentrate on assembly, without losing time in searching and buying additional parts.
 
 Included in the OLSK Small Laser Kit:
 
@@ -79,7 +78,7 @@ Files
 Authors
 --
 
-Fabulaser Mini has been designed, developed and manufactured by:<br>
+OLSK Small Laser V2 has been designed, developed and manufactured by:<br>
 
 - **Daniele Ingrassia, daniele@inmachines.net**
 - **[InMachines Ingrassia GmbH](https://www.inmachines.net/)**<br>
