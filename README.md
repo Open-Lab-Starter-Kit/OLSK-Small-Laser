@@ -74,7 +74,7 @@ Files
 - **[Settings](settings)**
 - **[Workbook](OLSK_Small_Laser_V2_Workbook.pdf)**
 - **[Wiring Schematic](WiringSchematic_OLSK_Small_Laser_V2.pdf)**
-- **[Assembly Manual (OLSK Small Laser V1)](OLSK_Small_Laser_V2/manual/OLSK_Small_Laser_manual_L1M1.pdf)**
+- **[Assembly Manual (OLSK Small Laser V1)](OLSK_Small_Laser_V1/manual/OLSK_Small_Laser_manual_L1M1.pdf)**
 
 Authors
 --
