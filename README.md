@@ -72,7 +72,6 @@ Files
 - **[Settings](settings)**
 - **[Workbook](OLSK_Small_Laser_V2_Workbook.pdf)**
 - **[Wiring Schematic](WiringSchematic_OLSK_Small_Laser_V2.pdf)**
-- **[Assembly Manual (OLSK Small Laser V1)](OLSK_Small_Laser_V1/manual)**
 - **[PCB](https://github.com/Open-Lab-Starter-Kit/OLSK-Electronics/tree/main/Laser_Controller_Shield_V1-0)**
 
 Authors
