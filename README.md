@@ -24,10 +24,9 @@ In comparison to commercial laser cutters, OLSK Small Laser adds on top of the l
 The Assembly Manual 
 --
 
-OLSK Small Laser comes with a state of art building instruction manual, detailing any of the many building details. Divided into logical steps, the manual also instructs on general building practices, laser calibration and how to connect all the electronics of the machine. Teachers and lecturers can also use the manual to divide workshop participants into building groups.
-<div><i>OLSK Small Laser V2 assembly manual is still in progress. The complete manual is available only for OLSK Small Laser V1</i></div>
+All OLSK machines are open source and have an assembly manual, the BOM and necessary files available in this repository for replication. The assembly manual is an interactive 3D guide though each step and contains a list of parts, tools and instruction remarks, which follows a logic order to provide a smooth assembly.
 
-![](media/Manual2.png)
+- **[Assembly Manual](https://open-lab-starter-kit.github.io/OLSK-Small-Laser/)**
 
 The Kit
 --
